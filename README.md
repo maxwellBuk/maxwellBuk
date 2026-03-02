@@ -19,3 +19,5 @@ projects = {
     "nzSetup": "python"
 }
 ```
+<h3>🐍 ЗМЕЙКА (типо крутой, да)</h3>
+<img src="https://raw.githubusercontent.com/maxwellBuk/maxwellBuk/7bd815a049de8547322499d6aa497e0cf5885de7/github-user-snake.svg">
