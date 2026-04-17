@@ -16,6 +16,6 @@ languages = ["python", "javascript", "lua"]
 
 ```python
 projects = {
-    "nzSetup": "python"
+    None: None
 }
 ```
