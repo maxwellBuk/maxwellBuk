@@ -10,7 +10,7 @@
 <h3>💫 Какие языки я знаю?</h3>
 
 ```python
-languages = ["python", "javascript", "lua"]
+languages = ["python", "javascript"]
 ```
 <h3>👉 Какие проекты для Илона Маска я создал:</h3>
 
